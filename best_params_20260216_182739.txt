@@ -1,0 +1,13 @@
+Best Model: XGBoost
+Test R2 Score: 0.8346
+
+Best Parameters:
+  n_estimators: 350
+  max_depth: 6
+  learning_rate: 0.06237978732659162
+  subsample: 0.8753071461698947
+  colsample_bytree: 0.8035524424539743
+  min_child_weight: 4
+  gamma: 3.7616900998429355
+  reg_alpha: 0.00930600471484492
+  reg_lambda: 0.36761106351657863
