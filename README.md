@@ -2,6 +2,9 @@
 
 A powerful machine learning application that predicts flight ticket prices in India based on various parameters like airline, source, destination, departure time, and more. This project features a robust **FastAPI** backend that is **Dockerized and deployed on AWS EC2**, coupled with an interactive **Streamlit** frontend.
 
+### 🌐 Live Demo: [Flight Price Prediction App](https://airline-frontend-4a5wz2psxhydpgdgqerdxo.streamlit.app/)
+
+
 ---
 
 ## 🌟 Key Features
